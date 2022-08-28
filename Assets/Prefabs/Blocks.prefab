@@ -63,7 +63,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 9f5f99d6395b96f4aa4efe1347222b08, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -114,6 +114,7 @@ MonoBehaviour:
   PointBlock: 0
   GameManager: {fileID: 0}
   Player: {fileID: 0}
+  PS: {fileID: 8302600174941469860, guid: 7c31cda6de8748d458a8f4ca58b9dd01, type: 3}
 --- !u!54 &4559561112158469369
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -193,7 +194,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 9f5f99d6395b96f4aa4efe1347222b08, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -244,6 +245,7 @@ MonoBehaviour:
   PointBlock: 0
   GameManager: {fileID: 0}
   Player: {fileID: 0}
+  PS: {fileID: 8302600174941469860, guid: 7c31cda6de8748d458a8f4ca58b9dd01, type: 3}
 --- !u!54 &4559561112455011149
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -493,7 +495,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 9f5f99d6395b96f4aa4efe1347222b08, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -544,6 +546,7 @@ MonoBehaviour:
   PointBlock: 0
   GameManager: {fileID: 0}
   Player: {fileID: 0}
+  PS: {fileID: 8302600174941469860, guid: 7c31cda6de8748d458a8f4ca58b9dd01, type: 3}
 --- !u!54 &4559561112732080495
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -623,7 +626,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 9f5f99d6395b96f4aa4efe1347222b08, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -674,6 +677,7 @@ MonoBehaviour:
   PointBlock: 0
   GameManager: {fileID: 0}
   Player: {fileID: 0}
+  PS: {fileID: 8302600174941469860, guid: 7c31cda6de8748d458a8f4ca58b9dd01, type: 3}
 --- !u!54 &4559561112803419127
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -753,7 +757,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 9f5f99d6395b96f4aa4efe1347222b08, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -804,6 +808,7 @@ MonoBehaviour:
   PointBlock: 0
   GameManager: {fileID: 0}
   Player: {fileID: 0}
+  PS: {fileID: 8302600174941469860, guid: 7c31cda6de8748d458a8f4ca58b9dd01, type: 3}
 --- !u!54 &4559561113064494076
 Rigidbody:
   m_ObjectHideFlags: 0
